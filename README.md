@@ -2,7 +2,7 @@
 
 A Power BI project where I dig into Blinkit grocery sales data to see what sells, where it sells, and which kinds of outlets bring in the most revenue. The dashboard covers 8,523 items across 10 outlets and about $1.2M in total sales.
 
-![Blinkit Dashboard](images/dashboard.png)
+![Blinkit Dashboard](screenshot/dashboard.png)
 
 ## What I wanted to find out
 
